@@ -43,6 +43,13 @@ To install from GitHub, use
     pip install git+https://github.com/haven-jeon/PyKoSpacing.git
 
 
+  pip list
+  pip install git+https://github.com/haven-jeon/PyKoSpacing.git
+  pip install keras
+  pip install tensorflow
+  pip install git+https://github.com/haven-jeon/PyKoSpacing.git
+
+
 #### Example 
 mrspacing.py
 # -*- coding: utf-8 -*-
